@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "aifeducation"]
+	path = aifeducation
+	url = https://github.com/cran/aifeducation
 [submodule "iotarelr"]
 	path = iotarelr
 	url = https://github.com/fberding/iotarelr
