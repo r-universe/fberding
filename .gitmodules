@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "aifeducation"]
 	path = aifeducation
-	url = https://github.com/cran/aifeducation
+	url = https://github.com/fberding/aifeducation
 [submodule "iotarelr"]
 	path = iotarelr
 	url = https://github.com/fberding/iotarelr
